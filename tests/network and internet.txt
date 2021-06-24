@@ -1,0 +1,12 @@
+What is the IP of localhost?  -----    127.0.0.1
+How much time do you expect for a response from localhost?  -----  less than a second
+which windows command .......  ---------   tracert
+Which is not a valid IP address? ------  1.257.0.1
+Which is not a valid IP address? ------  2001:0db8:85a3:0000:0000:8a2e:0370:7335 (might be a IPv6 address not sure)
+Which is true?  ------   Every router is a switch
+When you type www.webbicus.com, your browser....  -------   DNS
+What is a synonym of half-duplex connection?  ---------   One-way connection 
+what is the status code for server errorr? -------   500
+what is the status code for Page not found -------  404
+
+

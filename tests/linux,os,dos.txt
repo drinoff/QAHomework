@@ -1,0 +1,9 @@
+What is the difference if you use >> instead of > when typing an OS command?    --------      the output is appended to the file rather than overwriting the file
+Which of these Linux commands will delete the most files?   -----      rm -rf
+How operating systems indicate parent folder?  ------    ..\
+Which of these will return 3?   ------     test 2 -eq 2 && echo 3    (според мен това се превежда до 'Провери дали 2 = 2 и ако е така върни 3)
+Which Linux command is used for transferring files from one folder to another    ---------------     cp
+How can I see files and folders containing the letter "d"?    -------    grep d | ls   (i am not sure)
+What does "top" do in Linux?     -------     Shows all processes
+What is the equivalent of the "find" DOS command in Linux?   -----    grep
+Which command in Linux is different in DOS?   ---------    ls

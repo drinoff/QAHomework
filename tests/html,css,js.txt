@@ -1,0 +1,10 @@
+Choose the correct HTML element for the largest heading:    -----      <h1>
+Which tag is used to indicate a hyperlink?   -----    <a href
+Which HTML tag is used to make a numbered list?  -----   <ol>
+If a webpage was human body, then  -------    HTML represents the bones, JavaScript represents the muscles, CSS represents the skin
+Inside which HTML element do we put the JavaScript?   --------   <script>
+Which code is absolutely mandatory for a webpage?   --------   HTML code
+What is the most accurate definition of a web browser?   ---------   A software that accesses and displays pages and files on the web.
+Which key in most modern browsers allows you to use developer tools, see the source code, the CSS, and the network requests and responses?  -------   F12
+What does CSS stand for?    -----    Cascading Style Sheets
+Which HTML tag is used to define an internal CSS code?   ---------   <style>

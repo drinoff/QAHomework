@@ -1,0 +1,14 @@
+Which SQL statement is used to extract data from a database?  ---------  SELECT
+Which SQL statement is used to add new data in a database?  ---------   INSERT INTO
+With SQL, how do you select a column named "FirstName" from a table named "Persons"?   -----   SELECT FirstName FROM Persons
+In the scenario above, if you want to select all columns, but not only FirstName, what will you use?  ------- *
+In the scenario above, if you want to know the number of the records but you are not interested in the records themselves, what will you use? ---- Count
+With SQL, how do you select all the records from a table named "Persons" where the "FirstName" is "Peter" and the "LastName" is "Jackson"?   ----   SELECT * FROM Persons WHERE FirstName='Peter' and LastName='Jackson'
+Which SQL keyword is used to return only different values? -----------   distinct
+Which SQL keyword is used to sort the result-set?   --------     ORDER BY
+A table can have only one  ---------   index
+An index makes search in the database faster. What does it make slower? ------   both
+
+
+
+

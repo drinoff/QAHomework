@@ -1,0 +1,12 @@
+you can always play with    -      https://regex101.com/
+
+\d+       --------       Matches one or more decimal digits
+\S matches  ---------      anything other than a space, tab or newline
+Which of these will not match by: a{3,6}  --------    aabb
+\.\. will match    --------     ..
+a{3,}   --------     will match 3 or more characters "a"
+Which character denotes start of string?   --------    ^
+How do you denote groups in regular expressions?   --------    ( )
+How do you denote zero or more repetitions?   ---------    *
+Which regex will match everything?    ------------      .*
+Which regex will match any character but a, b or c?  -----------    [^abc]
